@@ -1,0 +1,100 @@
+@charset "utf-8";
+/* CSS Document */
+#Wlogo{
+	display: inline;
+	float: left;
+}
+#Wtext{
+display: inline;
+float: left;
+}
+#slinks{
+float: right;
+padding-top: 30px;
+}
+nav{
+
+}
+main{
+background-color: #5475eb;	
+}
+body{
+	
+}
+#caro{
+padding-top: 60px;	
+}
+#conhead {
+    text-align: center;
+    font-size: 30px;
+    background-color: #1EC0D9;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 14px 50px;
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    
+}
+#suphead {
+    text-align: center;
+    font-size: 30px;
+    background-color: #1EC0D9;
+    border-radius: 2px;
+    text-transform: uppercase;
+    padding: 14px 50px;
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    
+}
+
+.contact {
+	display: flex;
+}
+.contact .contact-form {
+	padding: 0em 2em 10em;
+	background-color: #c6d8d3;
+	width: 50%;
+}
+
+.contact .contact-list {
+	background: #c6d8d3;
+	color: black;
+	width: 50%;
+	padding: 0em 2em 10em;
+}
+#sub{
+background-color:#1EC0D9;
+float: left
+}
+h3{
+background-color: #1EC0D9;	
+}
+h3,p{
+text-align: left;
+}
+#mapc{
+background: #c6d8d3;	
+}
+#corenav{
+background-color:#1EC0D9;	
+}
+#mod1{
+text-align: center;	
+}
+#mod2{
+text-align: center;	
+}
+#mod3{
+text-align: center;		
+}
+#soc, act, att{
+background-color: #1EC0D9;	
+}
+#act{
+background-color: #1EC0D9;	
+}
+#att{
+background-color: #1EC0D9;	
+}
